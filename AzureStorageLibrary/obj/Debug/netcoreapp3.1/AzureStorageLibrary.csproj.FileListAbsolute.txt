@@ -1,0 +1,9 @@
+C:\Users\mehti\source\repos\WebApplication1\AzureStorageLibrary\bin\Debug\netcoreapp3.1\AzureStorageLibrary.deps.json
+C:\Users\mehti\source\repos\WebApplication1\AzureStorageLibrary\bin\Debug\netcoreapp3.1\AzureStorageLibrary.dll
+C:\Users\mehti\source\repos\WebApplication1\AzureStorageLibrary\obj\Debug\netcoreapp3.1\AzureStorageLibrary.csprojAssemblyReference.cache
+C:\Users\mehti\source\repos\WebApplication1\AzureStorageLibrary\obj\Debug\netcoreapp3.1\AzureStorageLibrary.AssemblyInfoInputs.cache
+C:\Users\mehti\source\repos\WebApplication1\AzureStorageLibrary\obj\Debug\netcoreapp3.1\AzureStorageLibrary.AssemblyInfo.cs
+C:\Users\mehti\source\repos\WebApplication1\AzureStorageLibrary\bin\Debug\netcoreapp3.1\AzureStorageLibrary.pdb
+C:\Users\mehti\source\repos\WebApplication1\AzureStorageLibrary\obj\Debug\netcoreapp3.1\AzureStorageLibrary.dll
+C:\Users\mehti\source\repos\WebApplication1\AzureStorageLibrary\obj\Debug\netcoreapp3.1\AzureStorageLibrary.pdb
+C:\Users\mehti\source\repos\WebApplication1\AzureStorageLibrary\obj\Debug\netcoreapp3.1\AzureStorageLibrary.csproj.CoreCompileInputs.cache
